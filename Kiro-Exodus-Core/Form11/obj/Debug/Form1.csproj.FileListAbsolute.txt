@@ -1,0 +1,2 @@
+D:\GithubNew\3\exodus5\Exodus5\Kiro-Exodus-Core\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\3\exodus5\Exodus5\Kiro-Exodus-Core\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
